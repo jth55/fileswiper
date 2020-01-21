@@ -1,7 +1,7 @@
 # fileswiper
 Script to make sending files via netcat faster and more convenient.
 
-Description:
+__Description__:
 
 Client Script:
 Will send all files on this machine that are in the loot list in the program.
@@ -11,14 +11,14 @@ Server Script:
 Will open a listener on ports 443 and 80 for each file that the client script sends.
 
 
-Usage:
+__Usage__:
 
 Server script: `./server.sh`
 
 Client script: `./client.sh RHOST [additional files or directories]`
 
 
-Screenshots:
+__Screenshots__:
 
 Server
 
