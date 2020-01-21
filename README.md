@@ -19,8 +19,7 @@ Client script: `./client.sh RHOST [additional files or directories]`
 Screenshots:
 
 Server
-  - ![](/Images/server1.jpg)
-  - ![](/Images/image.png)
+  <img src="Images/server1.jpg" width = "300"> <img src="Images/image.png" width = "300">
   
 Client
-  - - ![](/Images/client.png)
+  <img src="Images/client.png" width = "300">
