@@ -1,7 +1,8 @@
 # fileswiper
-Script to make sending files via netcat faster and more convenient.
 
 __Description__:
+
+Script to make sending files via netcat faster and more convenient.
 
 Client Script:
 Will send all files on this machine that are in the loot list in the program.
@@ -22,8 +23,8 @@ __Screenshots__:
 
 Server
 
-  <img src="Images/server1.jpg" width = "300"> <img src="Images/image.png" width = "300">
+  <img src="Images/server1.jpg" width = "300"> <img src="Images/image.png" width = "400">
   
 Client
 
-  <img src="Images/client.png" width = "300">
+  <img src="Images/client.png" width = "500">
