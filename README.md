@@ -23,7 +23,7 @@ __Screenshots__:
 
 Server
 
-   <img src="Images/server1.jpg" width = "300">
+   <img src="Images/server1.jpg" width = "300">  <img src="Images/image.png" width = "250">
   
 Client
 
