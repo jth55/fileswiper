@@ -2,7 +2,7 @@
 
 __Description__:
 
-Script to make sending files via netcat faster and more convenient.
+Automation script to make sending files via netcat faster and more convenient.
 
 Client Script:
 Will send all files on this machine that are in the loot list in the program.
